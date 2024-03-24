@@ -1,0 +1,4 @@
+----------Buổi 3
+Nhúng jquery vào đâu
+-- Nên nhúng các file thư viện của js vào cuối phần body, vì khi chạy 1 trang web thì việc đầu tiên là đọc từ trên xuống dưới, gặp file js nặng sẽ mất thời gian load trang web
+-- Nếu dùng file dữ liệu trong file jquery thì phải đặt file jquery ở trước

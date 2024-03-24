@@ -1,0 +1,33 @@
+﻿
+.dialog-modal{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; 
+    background-color: #808080;
+    opacity: 0.4;
+}
+
+.dialog {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    border: 1px solid #ccc;
+    background-color: #ffd800;
+    top: calc(50% - 200px);
+    left: calc(50% - 300px);
+    right: 0;
+    bottom: 0;
+}
+
+    .dialog .dialog-title {
+        height: 25px;
+        width: 600px;
+        background-color: #0026ff;
+    }
+
+    .dialog .dialog-body {
+        background-color: #ffd800;
+        height: calc(100% - 25px);
+    }

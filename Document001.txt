@@ -1,0 +1,11 @@
+
+Ấn Ctrl + 0 để về lại ban đầu sau khi sửa bằng f12
+
+. trong css là định nghĩa của class
+# trong css là định nghĩa của id
+
+ưu tiên cao nhất important - inline - id - class
+
+nếu duy nhất thì nên dùng id, còn nếu dùng cho nhiều đối tượng thì nên dùng class
+
+để set background cho 1 elenment thì phải có diện tích (có width và height)

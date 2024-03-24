@@ -1,0 +1,5 @@
+-------------Buổi 4
+Nguyên tắc trong javascript là chỉ nhận hàm sau cùng
+Note: Constructor trong js thì đều tên là constructor
+Về vấn đề trùng tên hàm giữa các file js, nên dùng class riêng cho từng file html
+Trong 1 hàm hay 1 class gọi đến hàm hay thuộc tính của chính nó thì dùng từ khóa this
